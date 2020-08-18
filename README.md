@@ -9,6 +9,6 @@ A VBA macro solution to create automatic PDF invoices
 
 ## Screenshots
 ### ``Invoice Details`` Sheet with some data
-![Alt text](https://github.com/sezerad/InvoiceGenerator/blob/master/Screenshots/ExampleResult.png?raw=true "InvoiceGenerator")
+![Alt text](https://github.com/sezerad/InvoiceGenerator/blob/master/Screenshots/InvoiceDetail.png?raw=true "InvoiceGenerator")
 ### ``Created PDF invoice``
-![Alt text](https://github.com/sezerad/InvoiceGenerator/blob/master/Screenshots/ExamplePDF.png?raw=true "InvoiceGenerator")
+![Alt text](https://github.com/sezerad/InvoiceGenerator/blob/master/Screenshots/InvoiceExample.png?raw=true "InvoiceGenerator")
