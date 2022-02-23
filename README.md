@@ -1,5 +1,5 @@
 # InvoiceGenerator
-A VBA macro solution to create automatic PDF invoices
+A VBA macro project, allowing vendors to enter bulk invoice details in Excel and automatically create PDF invoices based on a predefined company template in a worksheet
 
 ## Usage
 * Create an invoice template sheet and name it as specific clientID
